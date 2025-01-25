@@ -1,0 +1,3 @@
+hello this a new file written in vim on 25 january 
+so save it and quit 
+
